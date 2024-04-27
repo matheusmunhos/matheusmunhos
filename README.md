@@ -19,6 +19,7 @@
 ## Meus Contatos:
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-munhos)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:munhosdev@gmail.com)
 
 ##
 
