@@ -2,7 +2,7 @@
 ### Olá eu sou o Matheus Munhos🖐️
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheus-munhos)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-munhos)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmunhos&show_icons=true&theme=tokyonight)
 
